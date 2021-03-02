@@ -4,7 +4,7 @@
 **What have I learnt this week?**  Week 1 was an introductive week for everyone and mostly everyone was new to the contents of this subject. This week we were introduced to the different types of systems, their functions and their purpose.
 
 
-**What do I 'now know' that I did not before?** Before Week 1, I had no proper definition of what a system is and the different types of systems. After the first workshop, I understood what systems are, the difference between the different types of systems and the function of each system.
+**What do I 'now know' that I did not before?** Before Week 1, I had no proper definition of a system and the different types of systems. After the first workshop, I understood what systems are, the difference between the different types of systems and the function of each system.
 
 
 **What insights have I gained?** The insights I have gained in Week 1 are: - What complicated and complex systems are - Introduction to the new term, Chaos systems - Characteristics of the three types of systems 
