@@ -20,4 +20,26 @@
 
 
 **What theory proved to be useful and why? What have I learnt from this?** Something that proved to be useful from this week was the difference between complicated and complex Systems. People often consider complicated and complex systems to be the same because complicated and complex are synonyms of each other. This includes me as well. I thought that complicated and complex systems are the same but now I have learnt that these two are different from each other.
- 
+
+
+
+## Week 2
+**What have I learnt this week?**
+
+
+**What do I 'now know' that I did not before?**
+
+
+**What insights have I gained?**
+
+
+**What are (my/the) perceived strengths and weaknesses that I have observed?**
+
+
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?**
+
+
+**What would I do better next time and with what anticipated results?**
+
+
+**What theory proved to be useful and why? What have I learnt from this?**
