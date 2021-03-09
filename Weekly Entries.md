@@ -24,22 +24,22 @@
 
 
 ## Week 2
-**What have I learnt this week?**
+**What have I learnt this week?** Week 2 was all about learning the different types of models. This week I learned how models can help us build and improve our understanding of complex systems. 
 
 
-**What do I 'now know' that I did not before?**
+**What do I 'now know' that I did not before?** Before the Week 2 workshop I didn't know the different types of models and how they work. However, after Week 2 I found out, through the workshop, that different types of models will have different purposes and their process of operating. 
 
 
-**What insights have I gained?**
+**What insights have I gained?** The insights I have gained after Week 2 are: -The different types of models - The functions of different models - Having an understanding of many models is preferred rather than an understanding of a single model. 
 
 
-**What are (my/the) perceived strengths and weaknesses that I have observed?**
+**What are (my/the) perceived strengths and weaknesses that I have observed?** One strength that I have observed is that I am able to understand the various models at once. One weakness I have observed is that it takes too long for me to understand the concept of models. 
 
 
-**What were the challenges I have encountered/observed and how well (did I/my team) handle them?**
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?** The challenge I encountered in Week 2 was finishing all of my pre-work for all subjects because my laptop was facing some technical problems. The way I handled this was by using my mobile phone. Mobile phone are great portable tools that are very useful. I had the Canvas app downloaded on my phone and hence used my phone to complete the pre-work. 
 
 
-**What would I do better next time and with what anticipated results?**
+**What would I do better next time and with what anticipated results?** As I aproach Week 3, I would re-watch the Week 2 workshop to make sure that I haven't missed any important details which will be useful for Week 3. Next week, I expect to come across other models and their behaviours. 
 
 
-**What theory proved to be useful and why? What have I learnt from this?**
+**What theory proved to be useful and why? What have I learnt from this?** The theory of many-model thinking proved to be useful because it helped me to better understand the assessment task. I have learnt the importance of utilizing many models in a complex system rather than a single model. 
