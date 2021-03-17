@@ -43,3 +43,26 @@
 
 
 **What theory proved to be useful and why? What have I learnt from this?** The theory of many-model thinking proved to be useful because it helped me to better understand the assessment task. I have learnt the importance of utilizing many models in a complex system rather than a single model. 
+
+
+
+## Week 3
+**What have I learnt this week?** This week I learnt the different types of models and in what situations that can be used. For example, the Rational model and the Signalling theory. 
+
+
+**What do I 'now know' that I did not before?** Before this week's lesson, I did not know the difference between these models. But after the lesson, I now know how these different models work and what requirements they have. 
+
+
+**What insights have I gained?** The insights I have gained after Week 3 are : -sz 
+
+
+**What are (my/the) perceived strengths and weaknesses that I have observed?** 
+
+
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?** 
+
+
+**What would I do better next time and with what anticipated results?**  
+
+
+**What theory proved to be useful and why? What have I learnt from this?** 
