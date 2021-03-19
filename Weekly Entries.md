@@ -53,16 +53,16 @@
 **What do I 'now know' that I did not before?** Before this week's lesson, I did not know the difference between these models. But after the lesson, I now know how these different models work and what requirements they have. 
 
 
-**What insights have I gained?** The insights I have gained after Week 3 are : -sz 
+**What insights have I gained?** The insights I have gained after Week 3 are : -Functions of different models - In depth explanation of each relevant model
 
 
-**What are (my/the) perceived strengths and weaknesses that I have observed?** 
+**What are (my/the) perceived strengths and weaknesses that I have observed?** The strengths that I observed are ability to understand topics when it is taught and the ability to explain it to others about what I have learnt. A weakness of mine I obserbed were completing some set tasks on time due to poor time management.
 
 
-**What were the challenges I have encountered/observed and how well (did I/my team) handle them?** 
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?** A challenge that I observed this week was making notes for the content covered in this week. To handle this challenge, I went through the slides and also did some research to enhance my understanding. 
 
 
-**What would I do better next time and with what anticipated results?**  
+**What would I do better next time and with what anticipated results?**  Next time, I would ask more questions about anything I do not understand and start taking notes from the start. I expect to come across some familiar concepts because I have done the pre-work for next week's concepts. 
 
 
-**What theory proved to be useful and why? What have I learnt from this?** 
+**What theory proved to be useful and why? What have I learnt from this?** A theory that proved to be useful was the explanation of each model because it will help me with my group task. I have learnt what models that I will be using in my assessment.  
