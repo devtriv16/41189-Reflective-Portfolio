@@ -90,3 +90,27 @@
 
 **What theory proved to be useful and why? What have I learnt from this?** Something that proved to be useful this week was to understand how System dynamics work. This is because it can assist us in understanding how we can use models to solve a problem. I have learnt that we should always take the many-model thinkning approach because it reduces the room for errors and hence giving us accurate results. 
 
+
+
+## Week 5
+**What have I learnt this week?** This week's content was about learning how and why some real world phenomena are normally distributed. I also learnt how to analyse a normal distribution graph (Bell Curve).  
+
+
+**What do I 'now know' that I did not before?**   
+
+
+**What insights have I gained?**  
+
+
+**What are (my/the) perceived strengths and weaknesses that I have observed?**  
+
+
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?**   
+
+
+**What would I do better next time and with what anticipated results?**  
+
+
+**What theory proved to be useful and why? What have I learnt from this?** 
+
+
