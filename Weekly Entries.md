@@ -66,3 +66,27 @@
 
 
 **What theory proved to be useful and why? What have I learnt from this?** A theory that proved to be useful was the explanation of each model because it will help me with my group task. I have learnt what models that I will be using in my assessment.  
+
+
+
+## Week 4
+**What have I learnt this week?** This week we learnt how System Dynamics can be used to analyse systems with feedbacks and interdependencies by using models. 
+
+
+**What do I 'now know' that I did not before?**  Before this week, I had no idea what System Dynamics is. In fact, I never heard of the term before. However, now I know the proper definition of System Dynamics and its functions. 
+
+
+**What insights have I gained?** The insights I have gained are: -What System Dynamics consists of (sources, sinks, etc.) - How systems can use System Dynamics. 
+
+
+**What are (my/the) perceived strengths and weaknesses that I have observed?** My strength that I have observed is my ability to write down notes for the content that is covered each week. A weakness that I have observed this week was to completely understand the concept of System Dynamics. 
+
+
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?**  A challenge that I encountered this week was to understand the concept of this week. To handle this challenge, I went through the slides to ensure that I did not miss any important points and also read through the information on Canvas. 
+
+
+**What would I do better next time and with what anticipated results?** Next time, I would prepare for the workshop by reading what content will be covered to ensure that I fully understand everything. Next week, we are expected to pre-read the information on Canvas about Week 5's workshop. 
+
+
+**What theory proved to be useful and why? What have I learnt from this?** Something that proved to be useful this week was to understand how System dynamics work. This is because it can assist us in understanding how we can use models to solve a problem. I have learnt that we should always take the many-model thinkning approach because it reduces the room for errors and hence giving us accurate results. 
+
