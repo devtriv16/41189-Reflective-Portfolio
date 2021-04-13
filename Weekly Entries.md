@@ -96,21 +96,21 @@
 **What have I learnt this week?** This week's content was about learning how and why some real world phenomena are normally distributed. I also learnt how to analyse a normal distribution graph (Bell Curve).  
 
 
-**What do I 'now know' that I did not before?**   
+**What do I 'now know' that I did not before?** Before this week's lecture, I did not knwo how to apply the Bell Curve to real life examples. However, after the lecture I know how the Bell Curve works and how it can be applied to real life phenomena. 
 
 
-**What insights have I gained?**  
+**What insights have I gained?**  The insight I have gained this week is the different types of distributions. There were three types of distributions that we learnt of. These are Probability distribution, Normal distribution and Long-tailed distribution. We were taught how each of these distributions work.
 
 
-**What are (my/the) perceived strengths and weaknesses that I have observed?**  
+**What are (my/the) perceived strengths and weaknesses that I have observed?**  One of my strength that I observed was my ability to work in a team. After this week's lecture, our team organized a Zoom meeting in which we discussed how were are going to complete the assignment. One weakness that I observed was to understand which models can be used to solve a particular problem. Sometimes I struggle to understand a few models. To overcome this weakness, I perform excessive research to completely understandhe model. 
 
 
-**What were the challenges I have encountered/observed and how well (did I/my team) handle them?**   
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?** A challenge that my team encountered was how to communicate with each other. It was difficult for us to communicate with each other and designate specific tasks to each member. To handle this challenge, we organized a group on social media where we can message each other and this made our life much easier. 
 
 
-**What would I do better next time and with what anticipated results?**  
+**What would I do better next time and with what anticipated results?** To prepare for next week's lecture I will pre-read the information provided on Canvas so that I know what is going to be discussed in the lecture. 
 
 
-**What theory proved to be useful and why? What have I learnt from this?** 
+**What theory proved to be useful and why? What have I learnt from this?** Something that I found to be useful was the different types of distributions. This is because it can assist us in understanding how real life phenomena can be explained using these distributions. I have learnt how we can apply these distrubutions o our understanding of how COVID-19 spreads and use it to control the virus. 
 
 
