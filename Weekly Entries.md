@@ -114,3 +114,27 @@
 **What theory proved to be useful and why? What have I learnt from this?** Something that I found to be useful was the different types of distributions. This is because it can assist us in understanding how real life phenomena can be explained using these distributions. I have learnt how we can apply these distrubutions o our understanding of how COVID-19 spreads and use it to control the virus. 
 
 
+
+## Week 6
+**What have I learnt this week?** This week I have learnt how complex systems evolve over time. For instance, how previous behaviour of a system affects the future behaviour of the same system (Path dependance). 
+
+
+**What do I 'now know' that I did not before?** Something that I did not know before this week's lecture was the Markov process. I had no idea what this idea but after going through all the relevant information related to this process, I understand what this is. 
+
+
+**What insights have I gained?** 
+
+
+**What are (my/the) perceived strengths and weaknesses that I have observed?** 
+
+
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?** 
+
+
+**What would I do better next time and with what anticipated results?** 
+
+
+**What theory proved to be useful and why? What have I learnt from this?** 
+
+
+
