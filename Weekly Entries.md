@@ -138,4 +138,23 @@
 
 
 
+## Week 7
+**What have I learnt this week?** This week I have learnt the concept of the Segregation and Peer Effects and how it can be used in different situations. 
 
+
+**What do I 'now know' that I did not before?**  Before this week, I did not know the Coordination and Culture model and how it can affect certain decisions of someone. For example, some people store ketchup bottles in their cupboards while some keep it in their fridge. 
+
+
+**What insights have I gained?**  The insight that I have gained is why different cultures have different rules and why some countries have a different set of rules. For example, why drivers in America drive on the right-hand side of the road whereas drivers in Australia drive on the left-hand side of the road. 
+
+
+**What are (my/the) perceived strengths and weaknesses that I have observed?** A strength that I have observed was the ability to understand a specific concept when it is taught. This is because I constantly take notes of important concepts. A weakness that I observeed was the inability to apply this week's models to the problem that I am doing in my assignment. I did not understand how I can apply these models to my assignment. 
+
+
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?** A challenge that I encountered was applying certain models to my assignment and how I can use it to solve the problem that my assignment is on. To handle this challenge, all of the members of my group performed individual research about these models and documented all information and decided if we can apply the model to our case study. 
+
+
+**What would I do better next time and with what anticipated results?** In preparation for next week's lecture, I would make sure that I have no doubts in regards to ast week's content so that I can understand next week's content properly. 
+
+
+**What theory proved to be useful and why? What have I learnt from this?** A theory that proved to be useful was Replicator dynamics. This is because it can help us learn how things evolve and how people think. This can be somewhat useful for us to use in our assignment. Our problem for the assignment is Strategies to contain COVID-19. Therefore we can use this to know how people think and how they will behave to a certain situation. 
