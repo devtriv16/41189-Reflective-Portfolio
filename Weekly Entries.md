@@ -134,7 +134,7 @@
 **What would I do better next time and with what anticipated results?** For the preparation of next week's lecture, I will make sure that I ask the lecturer for any questions that I have in my mind. If I don't have any questions, then I will read about the content before the lecture. 
 
 
-**What theory proved to be useful and why? What have I learnt from this?** A theory that proved to be useful was the Segregation and Peer Effect. This was useful because this model will be very useful for me to use in my assignment. I have learnt how I can apply this model to solve real life problems.
+**What theory proved to be useful and why? What have I learnt from this?** A theory that proved to be useful was the Path Dependance model. This is because this model will be very useful for me to use it in my assignment. I have learnt how I can apply this model in real life problems to solve them. 
 
 
 
