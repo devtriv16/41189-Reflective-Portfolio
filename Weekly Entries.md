@@ -122,19 +122,20 @@
 **What do I 'now know' that I did not before?** Something that I did not know before this week's lecture was the Markov process. I had no idea what this idea but after going through all the relevant information related to this process, I understand what this is. 
 
 
-**What insights have I gained?** 
+**What insights have I gained?** The insight I gained was how we can apply the Markov process to different situations/problems and ideate various solutions. 
 
 
-**What are (my/the) perceived strengths and weaknesses that I have observed?** 
+**What are (my/the) perceived strengths and weaknesses that I have observed?** One strength that I observed this week was working with my team to complete the set tasks and the assignment draft that is due. A weakness that I observed was that to understand all the concepts of this week's lecture. I did not understand a few concepts of this week's lecture and I had to perform more research to completely understand it. 
 
 
-**What were the challenges I have encountered/observed and how well (did I/my team) handle them?** 
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?** A challenge that I observed this week was to organise our group meetings. When one or two members are free at a certain time, the other members are busy at the same time. To handle this, we decided that we will organise the meeting on a day and time when no one has any class. 
 
 
-**What would I do better next time and with what anticipated results?** 
+**What would I do better next time and with what anticipated results?** For the preparation of next week's lecture, I will make sure that I ask the lecturer for any questions that I have in my mind. If I don't have any questions, then I will read about the content before the lecture. 
 
 
-**What theory proved to be useful and why? What have I learnt from this?** 
+**What theory proved to be useful and why? What have I learnt from this?** A theory that proved to be useful was the Segregation and Peer Effect. This was useful because this model will be very useful for me to use in my assignment. I have learnt how I can apply this model to solve real life problems.
+
 
 
 
