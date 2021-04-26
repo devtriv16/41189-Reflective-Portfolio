@@ -158,3 +158,27 @@
 
 
 **What theory proved to be useful and why? What have I learnt from this?** A theory that proved to be useful was Replicator dynamics. This is because it can help us learn how things evolve and how people think. This can be somewhat useful for us to use in our assignment. Our problem for the assignment is Strategies to contain COVID-19. Therefore we can use this to know how people think and how they will behave to a certain situation. 
+
+
+
+## Week 8
+**What have I learnt this week?** One thing that I learnt this week the Colonel Blotto Game model. It helped me understand how we distribute our limited resources over several objects.
+
+
+**What do I 'now know' that I did not before?** Before this week, I did not know the concept of Prisoner's Dilemma. After the tutor's thorough description, I now understand this concept. 
+
+
+**What insights have I gained?** An insight that I have gained from this week's workshop is how individual's should interact with each other to achieve a successful outcome and instead of failing when working alone (Collective Action Problems). 
+
+
+**What are (my/the) perceived strengths and weaknesses that I have observed?** A strength that I observed is my enthusiasm to learn new theory. This is a strength because this helps you understand topics sufficiently. A weakness that I observed was that I focus too much on details. This is important because if I focus too much on details, thenI will have trouble learning other topics properly. 
+
+
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?** . A challenge that my team observed was to integrate our researched information with the research of my other fellow group members. To handle this challenge, what my team did was that we inserted our research into different paragraphs and then we eliminated very similar ideas and then combining every information into one paragraph. 
+
+
+**What would I do better next time and with what anticipated results?** Next week's workshop is the Q&A session. So we will make sure that if we have any doubts, we will ask our tutors and ensure that they are cleared. 
+
+
+**What theory proved to be useful and why? What have I learnt from this?** A theory that proved to be useful is the Colonel Blotto Game model because if one player is given more resources than the other player, then we can gain an insight into who is likely to win the game. I have learnt that by distributing resources unequally to players of a game results in an unfair outcome. 
+
