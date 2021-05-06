@@ -182,3 +182,25 @@
 
 **What theory proved to be useful and why? What have I learnt from this?** A theory that proved to be useful is the Colonel Blotto Game model because if one player is given more resources than the other player, then we can gain an insight into who is likely to win the game. I have learnt that by distributing resources unequally to players of a game results in an unfair outcome. 
 
+
+
+## Week 9
+**What have I learnt this week?** In Week 9 me and my team worked together to complete our group assignment. This helped me learn how to work in a team and hence developing my teamwork skills. 
+
+
+**What do I 'now know' that I did not before?** To complete our assignment, we decided to divide different sections amongst everyone in our group. After the completion of a section, everyone would read that section and suggest any improvement. This helped me to learn many different things. For example, it helped me learn how we can use Agent-Based models to control the spread of the virus. 
+
+
+**What insights have I gained?**  An insight that I have gained this week is how the virus is spreading throughout the world at an increasing rate and also some ideas on how the spread can be minimized. 
+
+
+**What are (my/the) perceived strengths and weaknesses that I have observed?** A strength that I have observed is my ability to work in a team and communicate with others. A weakness that I have observed is to complete my tasks on time before our group virtually meets up. 
+
+
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?**. A challenge that we observed this week was to complete a certain section of the assignment. To handle this, we first dicussed amongst us and then we asked our lecturer and then compared our answers to determine the final answer. 
+
+
+**What would I do better next time and with what anticipated results?** Next time I would make sure that I perform thorough research on every section of our assignment to ensure that everything information is accurate. 
+
+
+**What theory proved to be useful and why? What have I learnt from this?** Something that proved to be useful is that how we can use different data sources to gather information. This is because it helps us learn that stating the source of our information is vital since we are using someone else's information in our report. 
