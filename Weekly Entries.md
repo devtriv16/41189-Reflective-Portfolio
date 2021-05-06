@@ -204,3 +204,26 @@
 
 
 **What theory proved to be useful and why? What have I learnt from this?** Something that proved to be useful is that how we can use different data sources to gather information. This is because it helps us learn that stating the source of our information is vital since we are using someone else's information in our report. 
+
+
+
+## Week 10
+**What have I learnt this week?** This week I also learnt how to work in a team and help others who were struggling with their section of the assignment. 
+
+
+**What do I 'now know' that I did not before?**  Before this week I didn't know how to use some functions in Microsoft Word. However, one of my team member taught me how to use it and it turned out to be useful. 
+
+
+**What insights have I gained?** The insight I gained by learning the Microsoft Word function was how I can insert different types of data in Word by using that function.  
+
+
+**What are (my/the) perceived strengths and weaknesses that I have observed?** A strength that I observed was how I can use Microsoft Excel to calculate difficult calculations that are difficult to calculate manually. A weakness that I observed was how I can interpret different types of statistics and analyze them. 
+
+
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?**. A challenge that we observed was how we can transfer our information from Google Docs into Microsoft Word. This is because there were some types of data then couldn't be copy pasted from Google Docs into Word. To handle this, we watched different YouTube videos on how we can perform this activity and then accomplished the task. 
+
+
+**What would I do better next time and with what anticipated results?** Since we virtually meet weekly, before our next meet up I would insert any relevant information into our shared doc and then modify it to make it more relatable to our topic. 
+
+
+**What theory proved to be useful and why? What have I learnt from this?** Something that proved to be useful is how we can code. One of my team member taught how we can code and it was useful because we needed to use it in our assignment.
