@@ -227,3 +227,26 @@
 
 
 **What theory proved to be useful and why? What have I learnt from this?** Something that proved to be useful is how we can code. One of my team member taught how we can code and it was useful because we needed to use it in our assignment.
+
+
+
+## Week 11
+**What have I learnt this week?** This week when working with my team, I learned how we can use certain softwares for facilitating our assignments. For example, using Python to modify codes for certain models helps us understand certain situations using these models and attempting to solve them.  
+
+
+**What do I 'now know' that I did not before?**  Before this week I did not know that we can use Google Scholar for our research. One of my team member told me that we can use Google Scholar for our study reasearch as part of our assignments. What Google Scholar does is that it provides us with simple scholarly literature. 
+
+
+**What insights have I gained?** An insight that I have gained is that using Google Scholar facilitates or process of completing our assignments because Google Scholar provides us with very easy and understandable information knowledge.   
+
+
+**What are (my/the) perceived strengths and weaknesses that I have observed?** A strength I have observed is my ability to help others when they are struggling to complete a task. If someone finds it hard to complete a task and they ask me for help, I am always able to help them. A weakness that I have observed is spending too much time on one task. Spending too much time on one task can leave us with less time to complete other important tasks. 
+
+
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?**. A challenge that I encountered while doing this assignment is finding relevant information for the assignment. Some websites have irrelevant information. If we read an entire irrelevant article, this can waste our time. To handle this challenge, I used Google Scholar instead of Google for my research, where I can find relevant information for the assignment. 
+
+
+**What would I do better next time and with what anticipated results?** Next time when completing my tasks, I would ensure that I only spend the time that is required to complete the task. For example, if a task can be completed in 10 minutes, then I won't be spending more than 10 minutes on that task. 
+
+**What theory proved to be useful and why? What have I learnt from this?** A theory that proved to be useful is Agent-Based models because that is one of our main models that we will be using in our assignment. If we don't know Agent-Based modelling with every detail then it can be hard for us to use this model. 
+
