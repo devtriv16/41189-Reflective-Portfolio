@@ -250,3 +250,25 @@
 
 **What theory proved to be useful and why? What have I learnt from this?** A theory that proved to be useful is Agent-Based models because that is one of our main models that we will be using in our assignment. If we don't know Agent-Based modelling with every detail then it can be hard for us to use this model. 
 
+
+
+## Week 12
+**What have I learnt this week?** This week I learned how I can manage my time and take my time out from other things to complete more important tasks. This is important because you can complete all your tasks on time without any late submissions.
+
+
+**What do I 'now know' that I did not before?**  Before this week, I did not know how to use Jupyter-Notebook but after talking to my team and watching a few YouTube videos on it, I figured out how it works. 
+
+
+**What insights have I gained?** An insight that I have gained this week is how I can apply Python codes to different applications. For example, I can use Python codes to operate certain apps or even create a calculator. 
+
+
+**What are (my/the) perceived strengths and weaknesses that I have observed?** A strength that I have observed is that I stay focused on one thing at a time. This is because if you focus on two or more things at a time then it can lead to confusions unless you have good multitasking skills. A weakness that I have observed is that I put in too much detail into a specific topic. Too much information on one topic can lead to misinterpretation of the information. 
+
+
+**What were the challenges I have encountered/observed and how well (did I/my team) handle them?**. A challenge I observed was to cut down information to ensure that you are within the word limit. This is a challenge because sometimes you don't know what information you can remove since you may accidentally remove relevant information. To handle this challenge, I discussed with my team before removing any information. If everyone believed that the information was irrelevant then I would remove it. 
+
+
+**What would I do better next time and with what anticipated results?** Next time, I would ensure that I only insert relevant and accurate information in any assessment to make sure that I don't have to cut down on any information later. 
+
+
+**What theory proved to be useful and why? What have I learnt from this?** A theory that proved to be useful was the Stock and Flow model. This is because it can help us visualise the core relationships between the elements of a system. From this I have learnt that when more quantitative analysis is needed, a Stock and Flow model should be used. 
